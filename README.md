@@ -1,1 +1,1 @@
-# python-image-gallery_post
+# EC2-based python image gallery
